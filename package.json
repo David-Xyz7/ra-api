@@ -1,0 +1,32 @@
+{
+  "name": "ra-api",
+  "version": "1.2.4",
+  "description": "bye @rayyreall",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\"Error: no test specified\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\" && exit 1"
+  },
+  "dependencies": {
+	"cheerio": "^1.0.0-rc.9",
+	"axios": "^0.21.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rayyreall/Ra-Apii.git"
+  },
+  "keywords": [
+    "scrapper",
+    "api",
+    "ra",
+    "rayyreall"
+  ],
+  "author": "rayyreall",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rayyreall/Ra-Apii/issues"
+  },
+  "homepage": "https://github.com/rayyreall/Ra-Apii#readme"
+}
